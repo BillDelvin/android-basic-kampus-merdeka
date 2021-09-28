@@ -21,4 +21,8 @@ public class MainActivity extends AppCompatActivity {
         final String textValue = editText.getText().toString();
         textName.setText(textValue);
     }
+
+    public void test(){
+
+    }
 }
